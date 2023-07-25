@@ -1,50 +1,26 @@
 brotlipy==0.7.0
-cached-property @ file:///home/conda/feedstock_root/build_artifacts/cached_property_1615209429212/work
+cached-property @ 
 certifi==2021.5.30
-cffi @ file:///D:/bld/cffi_1625835485017/work
-chardet @ file:///D:/bld/chardet_1610093644405/work
-charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1626371162869/work
 click==8.1.3
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
 conda==4.10.3
-conda-package-handling @ file:///D:/bld/conda-package-handling_1618231561911/work
-cryptography @ file:///D:/bld/cryptography_1616851687511/work
 dill==0.3.6
 Flask==2.2.2
-h5py @ file:///D:/bld/h5py_1624405777758/work
-idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1609836280497/work
 importlib-metadata==5.1.0
 itsdangerous==2.1.2
 Jinja2==3.1.2
 joblib==1.2.0
 MarkupSafe==2.1.1
-menuinst @ file:///D:/bld/menuinst_1626952349878/work
-numpy @ file:///D:/bld/numpy_1629092219550/work
-olefile @ file:///home/conda/feedstock_root/build_artifacts/olefile_1602866521163/work
-Pillow @ file:///D:/bld/pillow_1625677957583/work
 pycollada==0.7.1
-pycosat @ file:///D:/bld/pycosat_1610094995457/work
-pycparser @ file:///home/conda/feedstock_root/build_artifacts/pycparser_1593275161868/work
 pymol==2.5.2
-pyOpenSSL @ file:///home/conda/feedstock_root/build_artifacts/pyopenssl_1608055815057/work
 PyQt5==5.12.3
 PyQt5_sip==4.19.18
 PyQtChart==5.12
 PyQtWebEngine==5.12.1
-pyreadline @ file:///D:/bld/pyreadline_1611175297308/work
-PySocks @ file:///D:/bld/pysocks_1610291658292/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 pywin32==301
-requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1626393743643/work
-ruamel-yaml-conda @ file:///D:/bld/ruamel_yaml_1611943575102/work
 scikit-learn==1.0.2
 scipy==1.7.3
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 sklearn==0.0
 threadpoolctl==3.1.0
-tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1628985621016/work
 typing_extensions==4.4.0
-urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1624634538755/work
 Werkzeug==2.2.2
-win-inet-pton @ file:///D:/bld/win_inet_pton_1610147627696/work
 zipp==3.11.0
