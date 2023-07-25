@@ -22,7 +22,7 @@ def main():
     
 
     #loading the recommendation dataframe
-    df = pd.read_csv('C:\\Users\\t\\Downloads\\Diet recommendation\\recommend_data.csv')
+    df = pd.read_csv('recommend_data.csv')
     def recommend(caloric_level, caloric_value, n=10):
         # Filter the dataset based on the caloric level
         filtered_data = df[df['caloric level'] == caloric_level]
