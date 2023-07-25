@@ -9,7 +9,6 @@ Jinja2==3.1.2
 joblib==1.2.0
 MarkupSafe==2.1.1
 pycollada==0.7.1
-pymol==2.5.2
 PyQt5==5.12.3
 PyQt5_sip==4.19.18
 PyQtChart==5.12
