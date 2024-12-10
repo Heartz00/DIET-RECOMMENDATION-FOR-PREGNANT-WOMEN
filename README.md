@@ -7,7 +7,7 @@ The **Pregnant Women Diet Recommender** is a tool designed to provide pregnant w
 
 ---
 
-![image](https://github.com/user-attachments/assets/4a86171c-0e11-432d-8eaa-45edb35a4daa)
+![image](https://github.com/user-attachments/assets/70a61b18-7fc6-4a85-aa56-a63c293db3e9)
 
 
 ## **Features**
